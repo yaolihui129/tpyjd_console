@@ -1,0 +1,21 @@
+jdbcUrl = jdbc:mysql://192.168.21.10/tpyjd_db_yfb?characterEncoding=utf8&zeroDateTimeBehavior=convertToNull
+user = root
+password =root
+devMode = true
+
+#characterEncoding=utf8
+#平台信息
+sysid=1
+sysname=权限管理平台
+
+#秘钥
+secret_key=tpyjdkey
+expired=30
+
+#权限管理系统地址
+rolesystem=http://192.168.21.10:8080
+
+#crm api url
+CRM_API_URL=http://192.168.21.177/distributor.action
+CRM_USER=admin@pacificimmi.cn
+CRM_PASSWORD=111111

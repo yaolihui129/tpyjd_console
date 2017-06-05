@@ -1,0 +1,27 @@
+/***
+Blue theme
+***/
+/***
+Reset and overrides  
+***/
+ .upload-img-init-show{
+   width: 100px;  height: 20px;	 float:left;
+   }
+.upload-img-init-hidden{
+   width: 100px;  height: 20px;	 float:left ;display: none;
+ }
+ .upload-img-init-img{
+   float:left; border:1px solid #454545; height:100px;width:100px;
+ }
+ .upload-img-init-input-show{
+ float: left;   width: 100px;  height: 100px;/*  margin-top: 20px; */
+ }
+ .upload-img-init-input-hidden{
+ float: left;   width: 100px;  height: 100px; display: none;/*  margin-top: 20px; */
+ }
+ .upload-img-init-div2{
+  width: 100px;  height: 20px; margin-left: 7%; float:left;
+ }
+/***
+Page header
+***/
